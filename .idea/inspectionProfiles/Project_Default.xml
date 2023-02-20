@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="flask-sqlalchemy" />
+            <item index="1" class="java.lang.String" itemvalue="flask-wtf" />
+            <item index="2" class="java.lang.String" itemvalue="jsonpath-rw" />
+            <item index="3" class="java.lang.String" itemvalue="jsonpath-rw-ext" />
+            <item index="4" class="java.lang.String" itemvalue="wtforms" />
+            <item index="5" class="java.lang.String" itemvalue="flask" />
+            <item index="6" class="java.lang.String" itemvalue="loguru" />
+            <item index="7" class="java.lang.String" itemvalue="ply" />
+            <item index="8" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="9" class="java.lang.String" itemvalue="sqlalchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="users.user.Admin.__or__" />
+          <option value="dict.__or__" />
+          <option value="int.__or__" />
+          <option value="bytes.__or__" />
+          <option value="users.user.User.__or__" />
+          <option value="tuple.__or__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
